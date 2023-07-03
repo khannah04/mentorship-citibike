@@ -1,0 +1,14 @@
+{
+  "name": "686f00a223355f70",
+  "main": "686f00a223355f70@397.js",
+  "version": "397.0.0",
+  "homepage": "https://observablehq.com/d/686f00a223355f70",
+  "author": {
+    "name": "SBRT Mentorship 22-23",
+    "url": "https://observablehq.com/@sbrt-datatouille"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
